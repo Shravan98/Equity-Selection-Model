@@ -24,7 +24,7 @@ Structure of the code:
 7) Model Selection
 8) Feature importance
 9) Sector Performance metrics
-10)Trading Stratey
+10) Trading Stratey
 
 1. Data Exploration:
 o Loaded the data and performed exploratory data analysis (EDA). Included summary statistics, visualizations, and any important observations about the data.
